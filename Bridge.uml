@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.genmymodel.ecoreonline.graphic="http://com.genmymodel.ecoreonline.graphic/2.0" xmlns:com.genmymodel.graphic.uml="http://com.genmymodel.ecoreonline.graphic.uml/1.0" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_9WmXcAknEeSS7oyMSJwtiQ" name="Bridge">
+  <eAnnotations xmi:id="_9WmXcQknEeSS7oyMSJwtiQ" source="genmymodel">
+    <details xmi:id="_9WmXcgknEeSS7oyMSJwtiQ" key="uuid" value="d933a40a-adca-4c4c-a787-ff16e4c7351a"/>
+    <contents xsi:type="com.genmymodel.graphic.uml:ClassDiagram" xmi:id="_9WmXcwknEeSS7oyMSJwtiQ" name="Bridge-diag">
+      <eAnnotations xmi:id="_9WmXdAknEeSS7oyMSJwtiQ" source="genmymodel">
+        <details xmi:id="_9WmXdQknEeSS7oyMSJwtiQ" key="uuid" value="_0mbEAFdNEDCGTb6ZuLm3Mw"/>
+      </eAnnotations>
+      <plane xmi:id="_9WmXdgknEeSS7oyMSJwtiQ" modelElement="_9WmXcAknEeSS7oyMSJwtiQ">
+        <eAnnotations xmi:id="_9WmXdwknEeSS7oyMSJwtiQ" source="genmymodel">
+          <details xmi:id="_9WmXeAknEeSS7oyMSJwtiQ" key="uuid" value="_0mbrEFdNEDCGTb6ZuLm3Mw"/>
+        </eAnnotations>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:ClassWidget" xmi:id="_9WmXeQknEeSS7oyMSJwtiQ" modelElement="_9WmX5gknEeSS7oyMSJwtiQ" anchors="_9WmXjgknEeSS7oyMSJwtiQ _9WmXpgknEeSS7oyMSJwtiQ _9WmXvgknEeSS7oyMSJwtiQ" x="82" y="113" width="139" height="88">
+          <eAnnotations xmi:id="_9WmXegknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXewknEeSS7oyMSJwtiQ" key="uuid" value="_65N3wFdNEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:OperationWidget" xmi:id="_9WmXfAknEeSS7oyMSJwtiQ" modelElement="_9WmX7QknEeSS7oyMSJwtiQ" width="106" height="18">
+            <eAnnotations xmi:id="_9WmXfQknEeSS7oyMSJwtiQ" source="genmymodel">
+              <details xmi:id="_9WmXfgknEeSS7oyMSJwtiQ" key="uuid" value="_CTnMwFdOEDCGTb6ZuLm3Mw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_9WmXfwknEeSS7oyMSJwtiQ" modelElement="_9WmX6gknEeSS7oyMSJwtiQ">
+            <eAnnotations xmi:id="_9WmXgAknEeSS7oyMSJwtiQ" source="genmymodel">
+              <details xmi:id="_9WmXgQknEeSS7oyMSJwtiQ" key="uuid" value="_K5oW8OtNEDGNtZITNdyV3w"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:ClassWidget" xmi:id="_9WmXggknEeSS7oyMSJwtiQ" modelElement="_9WmX9AknEeSS7oyMSJwtiQ" anchors="_9WmXiwknEeSS7oyMSJwtiQ" x="61" y="332" width="168" height="107">
+          <eAnnotations xmi:id="_9WmXgwknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXhAknEeSS7oyMSJwtiQ" key="uuid" value="_GOYZMFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:OperationWidget" xmi:id="_9WmXhQknEeSS7oyMSJwtiQ" modelElement="_9WmX_gknEeSS7oyMSJwtiQ" width="143" height="18">
+            <eAnnotations xmi:id="_9WmXhgknEeSS7oyMSJwtiQ" source="genmymodel">
+              <details xmi:id="_9WmXhwknEeSS7oyMSJwtiQ" key="uuid" value="_K3vJ8FdOEDCGTb6ZuLm3Mw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:PropertyWidget" xmi:id="_9WmXiAknEeSS7oyMSJwtiQ" modelElement="_9WmX-wknEeSS7oyMSJwtiQ">
+            <eAnnotations xmi:id="_9WmXiQknEeSS7oyMSJwtiQ" source="genmymodel">
+              <details xmi:id="_9WmXigknEeSS7oyMSJwtiQ" key="uuid" value="_LOiP8OtNEDGNtZITNdyV3w"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:AnchorWidget" xmi:id="_9WmXiwknEeSS7oyMSJwtiQ" modelElement="_9WmX-AknEeSS7oyMSJwtiQ" targetSegments="_9WmXkQknEeSS7oyMSJwtiQ" attachedElement="_9WmXggknEeSS7oyMSJwtiQ">
+          <eAnnotations xmi:id="_9WmXjAknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXjQknEeSS7oyMSJwtiQ" key="uuid" value="_I7kYMFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:AnchorWidget" xmi:id="_9WmXjgknEeSS7oyMSJwtiQ" modelElement="_9WmX-AknEeSS7oyMSJwtiQ" sourceSegments="_9WmXkQknEeSS7oyMSJwtiQ" attachedElement="_9WmXeQknEeSS7oyMSJwtiQ">
+          <eAnnotations xmi:id="_9WmXjwknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXkAknEeSS7oyMSJwtiQ" key="uuid" value="0bfff73b-36dd-4936-985b-895c5ada0cef"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:GeneralizationSegment" xmi:id="_9WmXkQknEeSS7oyMSJwtiQ" modelElement="_9WmX-AknEeSS7oyMSJwtiQ" sourceConnector="_9WmXiwknEeSS7oyMSJwtiQ" targetConnector="_9WmXjgknEeSS7oyMSJwtiQ" width="24" height="151">
+          <eAnnotations xmi:id="_9WmXkgknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXkwknEeSS7oyMSJwtiQ" key="uuid" value="_I7p3wFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:ClassWidget" xmi:id="_9WmXlAknEeSS7oyMSJwtiQ" modelElement="_9WmYBQknEeSS7oyMSJwtiQ" anchors="_9WmXnQknEeSS7oyMSJwtiQ" x="287" y="339" width="158" height="90">
+          <eAnnotations xmi:id="_9WmXlQknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXlgknEeSS7oyMSJwtiQ" key="uuid" value="_MqhWMFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+          <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:OperationWidget" xmi:id="_9WmXlwknEeSS7oyMSJwtiQ" modelElement="_9WmYDAknEeSS7oyMSJwtiQ" width="150" height="18">
+            <eAnnotations xmi:id="_9WmXmAknEeSS7oyMSJwtiQ" source="genmymodel">
+              <details xmi:id="_9WmXmQknEeSS7oyMSJwtiQ" key="uuid" value="_R4vukFdOEDCGTb6ZuLm3Mw"/>
+            </eAnnotations>
+          </ownedDiagramElements>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:InterfaceWidget" xmi:id="_9WmXmgknEeSS7oyMSJwtiQ" modelElement="_9WmYEwknEeSS7oyMSJwtiQ" anchors="_9WmXzQknEeSS7oyMSJwtiQ _9WmXqQknEeSS7oyMSJwtiQ _9WmXoAknEeSS7oyMSJwtiQ" x="310" y="140" width="111" height="81">
+          <eAnnotations xmi:id="_9WmXmwknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXnAknEeSS7oyMSJwtiQ" key="uuid" value="_XlSaoFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:AnchorWidget" xmi:id="_9WmXnQknEeSS7oyMSJwtiQ" modelElement="_9WmYCQknEeSS7oyMSJwtiQ" targetSegments="_9WmXowknEeSS7oyMSJwtiQ" attachedElement="_9WmXlAknEeSS7oyMSJwtiQ">
+          <eAnnotations xmi:id="_9WmXngknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXnwknEeSS7oyMSJwtiQ" key="uuid" value="_ZWfSgFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:AnchorWidget" xmi:id="_9WmXoAknEeSS7oyMSJwtiQ" modelElement="_9WmYCQknEeSS7oyMSJwtiQ" sourceSegments="_9WmXowknEeSS7oyMSJwtiQ" attachedElement="_9WmXmgknEeSS7oyMSJwtiQ">
+          <eAnnotations xmi:id="_9WmXoQknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXogknEeSS7oyMSJwtiQ" key="uuid" value="_ZWiV0FdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:InterfaceRealizationSegment" xmi:id="_9WmXowknEeSS7oyMSJwtiQ" modelElement="_9WmYCQknEeSS7oyMSJwtiQ" sourceConnector="_9WmXnQknEeSS7oyMSJwtiQ" targetConnector="_9WmXoAknEeSS7oyMSJwtiQ" width="20" height="137">
+          <eAnnotations xmi:id="_9WmXpAknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXpQknEeSS7oyMSJwtiQ" key="uuid" value="_ZWkyEFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:AnchorWidget" xmi:id="_9WmXpgknEeSS7oyMSJwtiQ" modelElement="_9WmYGwknEeSS7oyMSJwtiQ" targetSegments="_9WmXrAknEeSS7oyMSJwtiQ" attachedElement="_9WmXeQknEeSS7oyMSJwtiQ">
+          <eAnnotations xmi:id="_9WmXpwknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXqAknEeSS7oyMSJwtiQ" key="uuid" value="_abADgFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:AnchorWidget" xmi:id="_9WmXqQknEeSS7oyMSJwtiQ" modelElement="_9WmYIQknEeSS7oyMSJwtiQ" sourceSegments="_9WmXrAknEeSS7oyMSJwtiQ" attachedElement="_9WmXmgknEeSS7oyMSJwtiQ">
+          <eAnnotations xmi:id="_9WmXqgknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXqwknEeSS7oyMSJwtiQ" key="uuid" value="_abBRoFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:AssociationSegment" xmi:id="_9WmXrAknEeSS7oyMSJwtiQ" modelElement="_9WmYFwknEeSS7oyMSJwtiQ" relativeNodes="_9WmXrwknEeSS7oyMSJwtiQ _9WmXuAknEeSS7oyMSJwtiQ _9WmXsgknEeSS7oyMSJwtiQ _9WmXtQknEeSS7oyMSJwtiQ" sourceConnector="_9WmXpgknEeSS7oyMSJwtiQ" targetConnector="_9WmXqQknEeSS7oyMSJwtiQ" width="108" height="30">
+          <eAnnotations xmi:id="_9WmXrQknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXrgknEeSS7oyMSJwtiQ" key="uuid" value="_abB4sFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:MemberEndMultiplicityWidget" xmi:id="_9WmXrwknEeSS7oyMSJwtiQ" modelElement="_9WmYGwknEeSS7oyMSJwtiQ" x="224" y="140" height="21" refElement="_9WmXrAknEeSS7oyMSJwtiQ" deltaY="-15">
+          <eAnnotations xmi:id="_9WmXsAknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXsQknEeSS7oyMSJwtiQ" key="uuid" value="_abE8AFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:MemberEndMultiplicityWidget" xmi:id="_9WmXsgknEeSS7oyMSJwtiQ" modelElement="_9WmYIQknEeSS7oyMSJwtiQ" x="256" y="180" width="33" height="21" refElement="_9WmXrAknEeSS7oyMSJwtiQ" constraintPosition="END_POSITION" deltaY="-20" deltaX="35">
+          <eAnnotations xmi:id="_9WmXswknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXtAknEeSS7oyMSJwtiQ" key="uuid" value="_abGKIFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:MemberEndNameWidget" xmi:id="_9WmXtQknEeSS7oyMSJwtiQ" modelElement="_9WmYGwknEeSS7oyMSJwtiQ" x="220" y="169" height="21" refElement="_9WmXrAknEeSS7oyMSJwtiQ" deltaY="15">
+          <eAnnotations xmi:id="_9WmXtgknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXtwknEeSS7oyMSJwtiQ" key="uuid" value="_abDG0FdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:MemberEndNameWidget" xmi:id="_9WmXuAknEeSS7oyMSJwtiQ" modelElement="_9WmYIQknEeSS7oyMSJwtiQ" x="275" y="137" width="32" height="21" refElement="_9WmXrAknEeSS7oyMSJwtiQ" constraintPosition="END_POSITION" deltaY="25" deltaX="22">
+          <eAnnotations xmi:id="_9WmXuQknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXugknEeSS7oyMSJwtiQ" key="uuid" value="_abEU8FdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:CommentWidget" xmi:id="_9WmXuwknEeSS7oyMSJwtiQ" modelElement="_9WmX1wknEeSS7oyMSJwtiQ" anchors="_9WmXwQknEeSS7oyMSJwtiQ" x="50" y="30" width="180" height="30">
+          <eAnnotations xmi:id="_9WmXvAknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXvQknEeSS7oyMSJwtiQ" key="uuid" value="_eRudcFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:AnchorWidget" xmi:id="_9WmXvgknEeSS7oyMSJwtiQ" modelElement="_9WmX5gknEeSS7oyMSJwtiQ" targetSegments="_9WmXxAknEeSS7oyMSJwtiQ" attachedElement="_9WmXeQknEeSS7oyMSJwtiQ">
+          <eAnnotations xmi:id="_9WmXvwknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXwAknEeSS7oyMSJwtiQ" key="uuid" value="_hZlmQFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:AnchorWidget" xmi:id="_9WmXwQknEeSS7oyMSJwtiQ" modelElement="_9WmX1wknEeSS7oyMSJwtiQ" sourceSegments="_9WmXxAknEeSS7oyMSJwtiQ" attachedElement="_9WmXuwknEeSS7oyMSJwtiQ">
+          <eAnnotations xmi:id="_9WmXwgknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXwwknEeSS7oyMSJwtiQ" key="uuid" value="_hZp3sFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:AnnotedElementSegement" xmi:id="_9WmXxAknEeSS7oyMSJwtiQ" modelElement="_9WmX1wknEeSS7oyMSJwtiQ" sourceConnector="_9WmXvgknEeSS7oyMSJwtiQ" targetConnector="_9WmXwQknEeSS7oyMSJwtiQ" width="25" height="73">
+          <eAnnotations xmi:id="_9WmXxQknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXxgknEeSS7oyMSJwtiQ" key="uuid" value="_hZs7AFdOEDCGTb6ZuLm3Mw"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:CommentWidget" xmi:id="_9WmXxwknEeSS7oyMSJwtiQ" modelElement="_9WmX2gknEeSS7oyMSJwtiQ" x="69" y="481" width="149" height="30">
+          <eAnnotations xmi:id="_9WmXyAknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXyQknEeSS7oyMSJwtiQ" key="uuid" value="_3re1gMagEDCmnIWc6joTfQ"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.graphic.uml:CommentWidget" xmi:id="_9WmXygknEeSS7oyMSJwtiQ" modelElement="_9WmX3QknEeSS7oyMSJwtiQ" anchors="_9WmX0AknEeSS7oyMSJwtiQ" x="570" y="350" width="100" height="40">
+          <eAnnotations xmi:id="_9WmXywknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXzAknEeSS7oyMSJwtiQ" key="uuid" value="_a0GvoNqDEDGPbLibGuP5qg"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.ecoreonline.graphic:AnchorWidget" xmi:id="_9WmXzQknEeSS7oyMSJwtiQ" modelElement="_9WmYEwknEeSS7oyMSJwtiQ" attachedElement="_9WmXmgknEeSS7oyMSJwtiQ">
+          <eAnnotations xmi:id="_9WmXzgknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmXzwknEeSS7oyMSJwtiQ" key="uuid" value="_cNouYNqDEDGPbLibGuP5qg"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+        <ownedDiagramElements xsi:type="com.genmymodel.ecoreonline.graphic:AnchorWidget" xmi:id="_9WmX0AknEeSS7oyMSJwtiQ" modelElement="_9WmX3QknEeSS7oyMSJwtiQ" attachedElement="_9WmXygknEeSS7oyMSJwtiQ">
+          <eAnnotations xmi:id="_9WmX0QknEeSS7oyMSJwtiQ" source="genmymodel">
+            <details xmi:id="_9WmX0gknEeSS7oyMSJwtiQ" key="uuid" value="_cNouYdqDEDGPbLibGuP5qg"/>
+          </eAnnotations>
+        </ownedDiagramElements>
+      </plane>
+    </contents>
+  </eAnnotations>
+  <ownedComment xmi:id="_9WmX0wknEeSS7oyMSJwtiQ" body="The Bridge pattern allows to vary both the implementation and the abstraction by placing both in separate class hierarchies.&#xA;&#xA; Abstraction&#xA;defines the abstract interface&#xA;and maintains the Implementor reference.&#xA; RefinedAbstraction&#xA;extends the interface defined by Abstraction.&#xA; Implementor&#xA;defines the interface for implementation classes. &#xA;ConcreteImplementor&#xA;implements the Implementor interface&#xA;&#xA;According to &quot;Design Patterns&quot;  by Helm and Johnson, the use of the bridge pattern means to &quot;decouple an abstraction from its implementation so that the two can vary independently&quot;.">
+    <eAnnotations xmi:id="_9WmX1AknEeSS7oyMSJwtiQ" source="genmymodel">
+      <details xmi:id="_9WmX1QknEeSS7oyMSJwtiQ" key="uuid" value="_9KspcAknEeSS7oyMSJwtiQ"/>
+      <details xmi:id="_9WmX1gknEeSS7oyMSJwtiQ" key="is-first" value="true"/>
+    </eAnnotations>
+  </ownedComment>
+  <ownedComment xmi:id="_9WmX1wknEeSS7oyMSJwtiQ" annotatedElement="_9WmX5gknEeSS7oyMSJwtiQ" body="this.impl.implementation();">
+    <eAnnotations xmi:id="_9WmX2AknEeSS7oyMSJwtiQ" source="genmymodel">
+      <details xmi:id="_9WmX2QknEeSS7oyMSJwtiQ" key="uuid" value="_eRlTgFdOEDCGTb6ZuLm3Mw"/>
+    </eAnnotations>
+  </ownedComment>
+  <ownedComment xmi:id="_9WmX2gknEeSS7oyMSJwtiQ" body="Bridge design pattern">
+    <eAnnotations xmi:id="_9WmX2wknEeSS7oyMSJwtiQ" source="genmymodel">
+      <details xmi:id="_9WmX3AknEeSS7oyMSJwtiQ" key="uuid" value="_3rWSoMagEDCmnIWc6joTfQ"/>
+    </eAnnotations>
+  </ownedComment>
+  <ownedComment xmi:id="_9WmX3QknEeSS7oyMSJwtiQ" annotatedElement="_9WmYEwknEeSS7oyMSJwtiQ" body="qdqsd">
+    <eAnnotations xmi:id="_9WmX3gknEeSS7oyMSJwtiQ" source="genmymodel">
+      <details xmi:id="_9WmX3wknEeSS7oyMSJwtiQ" key="uuid" value="_a0GIkNqDEDGPbLibGuP5qg"/>
+    </eAnnotations>
+  </ownedComment>
+  <packageImport xmi:id="_9WmX4AknEeSS7oyMSJwtiQ">
+    <eAnnotations xmi:id="_9WmX4QknEeSS7oyMSJwtiQ" source="genmymodel">
+      <details xmi:id="_9WmX4gknEeSS7oyMSJwtiQ" key="uuid" value="cea57239-4346-4c5f-ad1f-11af09b8a11b"/>
+    </eAnnotations>
+    <importedPackage href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#/"/>
+  </packageImport>
+  <packageImport xmi:id="_9WmX4wknEeSS7oyMSJwtiQ">
+    <eAnnotations xmi:id="_9WmX5AknEeSS7oyMSJwtiQ" source="genmymodel">
+      <details xmi:id="_9WmX5QknEeSS7oyMSJwtiQ" key="uuid" value="67cecfd0-cab6-4cc6-8a90-5254e2a4e19c"/>
+    </eAnnotations>
+    <importedPackage href="pathmap://GENMYMODEL_LIBRARIES/GenMyModelPrimitiveTypes.library.uml#/"/>
+  </packageImport>
+  <packagedElement xsi:type="uml:Class" xmi:id="_9WmX5gknEeSS7oyMSJwtiQ" name="Abstraction" isAbstract="true">
+    <eAnnotations xmi:id="_9WmX5wknEeSS7oyMSJwtiQ" source="genmymodel">
+      <details xmi:id="_9WmX6AknEeSS7oyMSJwtiQ" key="uuid" value="_65F78FdNEDCGTb6ZuLm3Mw"/>
+      <details xmi:id="_9WmX6QknEeSS7oyMSJwtiQ" key="gmm-documentation" value=""/>
+    </eAnnotations>
+    <ownedAttribute xmi:id="_9WmX6gknEeSS7oyMSJwtiQ" name="attribute">
+      <eAnnotations xmi:id="_9WmX6wknEeSS7oyMSJwtiQ" source="genmymodel">
+        <details xmi:id="_9WmX7AknEeSS7oyMSJwtiQ" key="uuid" value="_K5ksketNEDGNtZITNdyV3w"/>
+      </eAnnotations>
+    </ownedAttribute>
+    <ownedOperation xmi:id="_9WmX7QknEeSS7oyMSJwtiQ" name="function">
+      <eAnnotations xmi:id="_9WmX7gknEeSS7oyMSJwtiQ" source="genmymodel">
+        <details xmi:id="_9WmX7wknEeSS7oyMSJwtiQ" key="uuid" value="_CTaYcFdOEDCGTb6ZuLm3Mw"/>
+        <details xmi:id="_9WmX8AknEeSS7oyMSJwtiQ" key="gmm-documentation" value=""/>
+      </eAnnotations>
+      <ownedParameter xmi:id="_9WmX8QknEeSS7oyMSJwtiQ" direction="return">
+        <eAnnotations xmi:id="_9WmX8gknEeSS7oyMSJwtiQ" source="genmymodel">
+          <details xmi:id="_9WmX8wknEeSS7oyMSJwtiQ" key="uuid" value="14acb5a1-6679-499c-89c2-352e9ef47182"/>
+        </eAnnotations>
+      </ownedParameter>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xsi:type="uml:Class" xmi:id="_9WmX9AknEeSS7oyMSJwtiQ" name="RefinedAbstraction">
+    <eAnnotations xmi:id="_9WmX9QknEeSS7oyMSJwtiQ" source="genmymodel">
+      <details xmi:id="_9WmX9gknEeSS7oyMSJwtiQ" key="uuid" value="_GOH6gFdOEDCGTb6ZuLm3Mw"/>
+      <details xmi:id="_9WmX9wknEeSS7oyMSJwtiQ" key="gmm-documentation" value=""/>
+    </eAnnotations>
+    <generalization xmi:id="_9WmX-AknEeSS7oyMSJwtiQ" general="_9WmX5gknEeSS7oyMSJwtiQ">
+      <eAnnotations xmi:id="_9WmX-QknEeSS7oyMSJwtiQ" source="genmymodel">
+        <details xmi:id="_9WmX-gknEeSS7oyMSJwtiQ" key="uuid" value="_I7PoEFdOEDCGTb6ZuLm3Mw"/>
+      </eAnnotations>
+    </generalization>
+    <ownedAttribute xmi:id="_9WmX-wknEeSS7oyMSJwtiQ" name="attribute">
+      <eAnnotations xmi:id="_9WmX_AknEeSS7oyMSJwtiQ" source="genmymodel">
+        <details xmi:id="_9WmX_QknEeSS7oyMSJwtiQ" key="uuid" value="_LOgawOtNEDGNtZITNdyV3w"/>
+      </eAnnotations>
+    </ownedAttribute>
+    <ownedOperation xmi:id="_9WmX_gknEeSS7oyMSJwtiQ" name="refineFunction">
+      <eAnnotations xmi:id="_9WmX_wknEeSS7oyMSJwtiQ" source="genmymodel">
+        <details xmi:id="_9WmYAAknEeSS7oyMSJwtiQ" key="uuid" value="_K3bA4FdOEDCGTb6ZuLm3Mw"/>
+        <details xmi:id="_9WmYAQknEeSS7oyMSJwtiQ" key="gmm-documentation" value=""/>
+      </eAnnotations>
+      <ownedParameter xmi:id="_9WmYAgknEeSS7oyMSJwtiQ" direction="return">
+        <eAnnotations xmi:id="_9WmYAwknEeSS7oyMSJwtiQ" source="genmymodel">
+          <details xmi:id="_9WmYBAknEeSS7oyMSJwtiQ" key="uuid" value="45c94beb-dbbb-4bf3-b870-d3de67e9326c"/>
+        </eAnnotations>
+      </ownedParameter>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xsi:type="uml:Class" xmi:id="_9WmYBQknEeSS7oyMSJwtiQ" clientDependency="_9WmYCQknEeSS7oyMSJwtiQ" name="ConcreteImplementor">
+    <eAnnotations xmi:id="_9WmYBgknEeSS7oyMSJwtiQ" source="genmymodel">
+      <details xmi:id="_9WmYBwknEeSS7oyMSJwtiQ" key="uuid" value="_MqLX8FdOEDCGTb6ZuLm3Mw"/>
+      <details xmi:id="_9WmYCAknEeSS7oyMSJwtiQ" key="gmm-documentation" value=""/>
+    </eAnnotations>
+    <interfaceRealization xmi:id="_9WmYCQknEeSS7oyMSJwtiQ" client="_9WmYBQknEeSS7oyMSJwtiQ" supplier="_9WmYEwknEeSS7oyMSJwtiQ" contract="_9WmYEwknEeSS7oyMSJwtiQ">
+      <eAnnotations xmi:id="_9WmYCgknEeSS7oyMSJwtiQ" source="genmymodel">
+        <details xmi:id="_9WmYCwknEeSS7oyMSJwtiQ" key="uuid" value="_ZWR3IFdOEDCGTb6ZuLm3Mw"/>
+      </eAnnotations>
+    </interfaceRealization>
+    <ownedOperation xmi:id="_9WmYDAknEeSS7oyMSJwtiQ" name="implementation">
+      <eAnnotations xmi:id="_9WmYDQknEeSS7oyMSJwtiQ" source="genmymodel">
+        <details xmi:id="_9WmYDgknEeSS7oyMSJwtiQ" key="uuid" value="_R4kvcFdOEDCGTb6ZuLm3Mw"/>
+        <details xmi:id="_9WmYDwknEeSS7oyMSJwtiQ" key="gmm-documentation" value=""/>
+      </eAnnotations>
+      <ownedParameter xmi:id="_9WmYEAknEeSS7oyMSJwtiQ" direction="return">
+        <eAnnotations xmi:id="_9WmYEQknEeSS7oyMSJwtiQ" source="genmymodel">
+          <details xmi:id="_9WmYEgknEeSS7oyMSJwtiQ" key="uuid" value="730dbb99-2def-49b8-9ef8-41af02adc07a"/>
+        </eAnnotations>
+      </ownedParameter>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xsi:type="uml:Interface" xmi:id="_9WmYEwknEeSS7oyMSJwtiQ" name="Implementor">
+    <eAnnotations xmi:id="_9WmYFAknEeSS7oyMSJwtiQ" source="genmymodel">
+      <details xmi:id="_9WmYFQknEeSS7oyMSJwtiQ" key="uuid" value="_XlG0cFdOEDCGTb6ZuLm3Mw"/>
+      <details xmi:id="_9WmYFgknEeSS7oyMSJwtiQ" key="gmm-documentation" value=""/>
+    </eAnnotations>
+  </packagedElement>
+  <packagedElement xsi:type="uml:Association" xmi:id="_9WmYFwknEeSS7oyMSJwtiQ" name="association2" memberEnd="_9WmYGwknEeSS7oyMSJwtiQ _9WmYIQknEeSS7oyMSJwtiQ" navigableOwnedEnd="_9WmYIQknEeSS7oyMSJwtiQ">
+    <eAnnotations xmi:id="_9WmYGAknEeSS7oyMSJwtiQ" source="genmymodel">
+      <details xmi:id="_9WmYGQknEeSS7oyMSJwtiQ" key="uuid" value="_aadQ8FdOEDCGTb6ZuLm3Mw"/>
+      <details xmi:id="_9WmYGgknEeSS7oyMSJwtiQ" key="gmm-documentation" value=""/>
+    </eAnnotations>
+    <ownedEnd xmi:id="_9WmYGwknEeSS7oyMSJwtiQ" name="abstraction" type="_9WmX5gknEeSS7oyMSJwtiQ" association="_9WmYFwknEeSS7oyMSJwtiQ">
+      <eAnnotations xmi:id="_9WmYHAknEeSS7oyMSJwtiQ" source="genmymodel">
+        <details xmi:id="_9WmYHQknEeSS7oyMSJwtiQ" key="uuid" value="_aad4AFdOEDCGTb6ZuLm3Mw"/>
+        <details xmi:id="_9WmYHgknEeSS7oyMSJwtiQ" key="gmm-documentation" value=""/>
+      </eAnnotations>
+      <lowerValue xsi:type="uml:LiteralInteger" xmi:id="_9WmYHwknEeSS7oyMSJwtiQ"/>
+      <upperValue xsi:type="uml:LiteralUnlimitedNatural" xmi:id="_9WmYIAknEeSS7oyMSJwtiQ" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_9WmYIQknEeSS7oyMSJwtiQ" name="impl" type="_9WmYEwknEeSS7oyMSJwtiQ" association="_9WmYFwknEeSS7oyMSJwtiQ">
+      <eAnnotations xmi:id="_9WmYIgknEeSS7oyMSJwtiQ" source="genmymodel">
+        <details xmi:id="_9WmYIwknEeSS7oyMSJwtiQ" key="uuid" value="_aad4AVdOEDCGTb6ZuLm3Mw"/>
+        <details xmi:id="_9WmYJAknEeSS7oyMSJwtiQ" key="gmm-documentation" value=""/>
+      </eAnnotations>
+      <lowerValue xsi:type="uml:LiteralInteger" xmi:id="_9WmYJQknEeSS7oyMSJwtiQ" value="1"/>
+      <upperValue xsi:type="uml:LiteralUnlimitedNatural" xmi:id="_9WmYJgknEeSS7oyMSJwtiQ" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+</uml:Model>
