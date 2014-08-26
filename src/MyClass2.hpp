@@ -11,6 +11,8 @@ class MyClass2
 		double attribute;
 		
 	
+	
+	
 };
 
 

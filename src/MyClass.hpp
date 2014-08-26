@@ -17,6 +17,12 @@ class MyClass
 		long double toto;
 		
 	
+	
+	public :
+	int foo(){
+			// TODO
+		};
+		
 };
 
 
