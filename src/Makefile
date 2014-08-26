@@ -3,7 +3,7 @@
 
 CFLAGS = -O 
 CC = g++ 
-SRC = MyClass.cpp  Main.cpp
+SRC = MyClass.cpp MyClass2.cpp  Main.cpp
 OBJ = $(SRC:.cpp = .o) 
  
 main: $(OBJ) 

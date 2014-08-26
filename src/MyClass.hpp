@@ -13,6 +13,9 @@ class MyClass
 		int attribute2;
 		bool attribute3;
 		
+	private :
+		long double toto;
+		
 	
 };
 
