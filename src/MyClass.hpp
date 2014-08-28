@@ -22,6 +22,9 @@ class MyClass
 	int foo(){
 			// TODO
 		};
+		invalid operation(){
+			// TODO
+		};
 		
 };
 
