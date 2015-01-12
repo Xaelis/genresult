@@ -23,7 +23,7 @@ public class MyClass {
     /**
     * @generated
     */
-    private Set<Date> attribute3;
+    private Date attribute3;
     
     /**
     * @generated
@@ -54,10 +54,7 @@ public class MyClass {
     /**
     * @generated
     */
-    public List<Integer> getAttribute2() {
-        if (this.attribute2 == null) {
-            this.attribute2 = new ArrayList<Integer>();
-        }
+    public Integer getAttribute2() {
         return this.attribute2;
     }
     
